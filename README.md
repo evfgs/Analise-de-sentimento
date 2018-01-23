@@ -1,4 +1,3 @@
-basic_sentiment_analysis
-========================
+Projeto da cadeira de mineração na web. 
 
-Code of the blog post: http://fjavieralba.com/basic-sentiment-analysis-with-python.html
+Com o intuito de realizar analise de sentimento baseada em resenhas de filmes
